@@ -1,0 +1,68 @@
+[
+  {
+    "id": "8715a640-feff-4039-adb0-6d876707d4ex",
+    "nombre": "Rubén García-Redondo Marín",
+    "nacimiento": "2002-09-15",
+    "nota": 10.0
+  },
+  {
+    "id": "ce94cafa-20b2-4a0e-83ee-79dd59e51e6f",
+    "nombre": "Nacho Roseti Tealdi",
+    "nacimiento": "2002-07-15",
+    "nota": 8.75
+  },
+  {
+    "id": "8715a640-feff-4039-adb0-6d876707d4ep",
+    "nombre": "Mireya Sánchez Pinzón",
+    "nacimiento": "2002-07-26",
+    "nota": 9.0
+  },
+  {
+    "id": "8715a640-feff-4039-adb0-6d876707d4eh",
+    "nombre": "Juan Fernández Gil",
+    "nacimiento": "2002-10-17",
+    "nota": 10.0
+  },
+  {
+    "id": "8715a640-feff-4039-adb0-6d876707d4ej",
+    "nombre": "Jorge Sánchez Berracoso",
+    "nacimiento": "2003-12-07",
+    "nota": 7.5
+  },
+  {
+    "id": "8715a640-feff-4039-adb0-6d876707d4ec",
+    "nombre": "Guillermo Ortiz Alonso",
+    "nacimiento": "2002-03-15",
+    "nota": 3.0
+  },
+  {
+    "id": "878414e8-b143-4449-beb4-00d0acc6aace",
+    "nombre": "Fernando Monzón Solano",
+    "nacimiento": "2001-10-14",
+    "nota": 8.0
+  },
+  {
+    "id": "bd1ab925-907a-465b-aa0e-cc70e3cf7700",
+    "nombre": "Daniel Elías Benito Haro",
+    "nacimiento": "2003-02-18",
+    "nota": 3.5
+  },
+  {
+    "id": "8715a640-feff-4039-adb0-6d876707d4eñ",
+    "nombre": "Alvaro Mingo Castillo",
+    "nacimiento": "2002-01-13",
+    "nota": 5.25
+  },
+  {
+    "id": "8715a640-feff-4039-adb0-6d876707d4ea",
+    "nombre": "Alejandro Sánchez Monzón",
+    "nacimiento": "2001-10-23",
+    "nota": 5.0
+  },
+  {
+    "id": "8715a640-feff-4039-adb0-6d876707d4e4",
+    "nombre": "Alberto López Ramos",
+    "nacimiento": "2002-10-17",
+    "nota": 3.5
+  }
+]
