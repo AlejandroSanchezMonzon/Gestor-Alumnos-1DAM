@@ -20,8 +20,6 @@ import java.util.UUID;
 
 public class AppController {
     AlumnosRepository alumnosRepository = AlumnosRepository.getInstance();
-    StorageJSON storageJSON = StorageJSON.getInstance();
-
 
     @FXML
     public MenuBar menubar;

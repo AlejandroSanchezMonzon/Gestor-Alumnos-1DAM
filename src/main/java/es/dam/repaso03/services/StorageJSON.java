@@ -32,12 +32,10 @@ public class StorageJSON implements IStorageJSON {
                 .setPrettyPrinting()
                 .create();
 
-        boolean result = false;
         PrintWriter f = null;
         try {
             f = new PrintWriter(new FileWriter(backupFile));
             f.println(gson.toJson(alumnos));
-            result = true;
 
         } catch (Exception e) {
             e.printStackTrace();

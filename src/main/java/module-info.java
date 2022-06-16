@@ -16,6 +16,4 @@ module es.dam.repaso {
 
     opens es.dam.repaso03.dto to com.google.gson;
     exports es.dam.repaso03.dto;
-
-
 }

@@ -81,9 +81,4 @@ public class StorageCSV implements IStorageCSV<AlumnoDTO> {
         double nota = Double.parseDouble(campos[3]);
         return new AlumnoDTO(id, nombre, nacimiento, nota);
     }
-
-    private LocalDate getFecha(String fecha) {
-        DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd/MM/yyyy");
-        return LocalDate.parse(fecha, formatter);
-    }
 }
