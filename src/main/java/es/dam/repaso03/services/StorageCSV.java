@@ -58,7 +58,7 @@ public class StorageCSV implements IStorageCSV<AlumnoDTO> {
         PrintWriter f = null;
         try {
             fichero = new File(csvFile);
-            f = new PrintWriter(new FileWriter(csvFile,append));
+            f = new PrintWriter(new FileWriter(csvFile, append));
 
             for (AlumnoDTO a : alumnos) {
                 f.println(a.toFile());
